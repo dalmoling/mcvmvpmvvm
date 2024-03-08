@@ -12,6 +12,6 @@ Chama o método correspondente no modelo para realizar o cálculo.
 Atualiza a View com o resultado do cálculo.
 
 
-Flask (Framework Web): Utilizado para criar o servidor web e lidar com as solicitações HTTP.
-Define rotas para manipular solicitações, como a rota /calculate para realizar o cálculo.
+Flask foi utilizado para criar o servidor web e lidar com as solicitações HTTP.
+E também define rotas para manipular solicitações, como a rota /calculate para realizar o cálculo.
 Renderiza o template HTML com os resultados para serem exibidos ao usuário.
